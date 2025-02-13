@@ -3,4 +3,4 @@ application = Flask(__name__)
 
 @application.route('/')
 def hello_world():
-    return 'is it working?'
+    return 'i finally got aws eb to work'
